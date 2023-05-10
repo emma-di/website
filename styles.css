@@ -1,0 +1,69 @@
+ /* Style the header */
+header {
+background-color: #333;
+padding: 30px;
+text-align: center;
+color: white;
+font-size: 36px;
+font-family: "Arial", sans-serif;
+text-transform: uppercase;
+}
+/* Style the subheader */
+h2 {
+font-size: 24px;
+font-family: "Georgia", serif;
+font-style: italic;
+margin: 20px 0px 10px;
+}
+/* Style the event titles */
+h3 {
+font-size: 18px;
+font-family: "Arial", sans-serif;
+font-weight: bold;
+margin-top: 20px;
+}
+/* Style the event descriptions */
+p {
+font-size: 16px;
+font-family: "Arial", sans-serif;
+line-height: 1.5;
+margin-top: 5px;
+margin-bottom: 20px;
+}
+/* Style the image captions */
+figcaption {
+font-size: 14px;
+font-style: italic;
+text-align: center;
+margin-top: 5px;
+}
+/* Style the navigation bar */
+nav {
+background-color: #f2f2f2;
+padding: 10px;
+margin-bottom: 20px;
+}
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+}
+nav li {
+margin: 0 10px;
+}
+nav a {
+display: inline-block;
+color: #333;
+text-align: center;
+padding: 10px 20px;
+text-decoration: none;
+font-family: "Arial", sans-serif;
+font-size: 16px;
+font-weight: bold;
+}
+nav a:hover {
+background-color: #333;
+color: white;
+}
