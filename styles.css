@@ -115,19 +115,19 @@ z-index: -1;
 }
 
 #sectioncolonial {
-background-image: ;
+background-image: url();
 }
 
 #sectionrevolution {
-background-image: ;
+background-image: url();
 }
 
 #sectionvictoria {
-background-image: ;
+background-image: url();
 }
 
 #sectionjazz {
-background-image: ;
+background-image: url();
 }
 
 #sectionww2 {
@@ -159,5 +159,5 @@ background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3
 }
 
 #sectionfuture {
-background-image: ;
+background-image: url();
 }
